@@ -5,8 +5,8 @@
 
 We design online tools and services to help consumers, prevent them from falling into scams and online frauds.
 
-[authifyChat](https://authifyweb.github.io/authifyChat/)
+[authifyChat](https://authifyweb.com/authifyChat/)
 
-[authifyURL](https://authifyweb.github.io/authifyURL/)
+[authifyURL](https://authifyweb.com/authifyURL/)
 
 [authifyNow](https://github.com/authifyWeb/authifyNow/releases)
