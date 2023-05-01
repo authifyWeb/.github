@@ -9,4 +9,4 @@ We design online tools and services to help consumers, prevent them from falling
 
 [authifyURL](https://url.authifyweb.com/)
 
-[authifyNow]https://now.authifyweb.com)
+[authifyNow](https://now.authifyweb.com)
