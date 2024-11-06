@@ -7,7 +7,7 @@ We design online tools and services to help consumers, prevent them from falling
 
 [authifyChat](https://chat.authifyweb.com/)
 
-[authifyURL](https://url.authifyweb.com/)
+[authifyBrand](https://brand.authifyweb.com/)
 
 [authifyNow](https://now.authifyweb.com)
 
